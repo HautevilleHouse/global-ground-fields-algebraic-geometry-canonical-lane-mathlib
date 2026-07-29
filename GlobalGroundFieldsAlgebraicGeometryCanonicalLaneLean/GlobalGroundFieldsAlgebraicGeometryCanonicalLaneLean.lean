@@ -1,0 +1,13 @@
+import GlobalGroundFieldsAlgebraicGeometryCanonicalLaneLean.AdmissibleClass
+import GlobalGroundFieldsAlgebraicGeometryCanonicalLaneLean.BridgeLemmas
+import GlobalGroundFieldsAlgebraicGeometryCanonicalLaneLean.GateLemmas
+import GlobalGroundFieldsAlgebraicGeometryCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace GlobalGroundFieldsAlgebraicGeometryCanonicalLaneLean
+
+-- Root module for the Global Ground Fields Algebraic Geometry package.
+-- Imports the core admissible class, bridge/gate lemmas, and final theorem.
+
+end GlobalGroundFieldsAlgebraicGeometryCanonicalLaneLean
+end HautevilleHouse
